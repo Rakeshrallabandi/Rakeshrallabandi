@@ -22,9 +22,12 @@ Email Me 👉 ✉️ **rakeshrallabndi475@gmail.com** For Collaboration/Project 
 
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/rakeshrallabandi475) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](http://www.linkedin.com/in/rakesh-rallabandi-232ab3295) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rakeshrallabandi475@gmail.com) [![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116.svg?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/Rakesh2525/) [![CodeChef](https://img.shields.io/badge/CodeChef-Profile-0055FF?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/rakeshrallaban) [![Codeforces](https://img.shields.io/badge/Codeforces-Profile-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/Rakesh2525)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/rakeshrallabandi475) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](http://www.linkedin.com/in/rakesh-rallabandi-232ab3295) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rakeshrallabandi475@gmail.com) [![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116.svg?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/Rakesh2525/) [![CodeChef](https://img.shields.io/badge/CodeChef-Profile-0055FF?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/rakeshrallaban) [![Codeforces](https://img.shields.io/badge/Codeforces-Profile-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/Rakesh2525) [![SmartInterviews](https://img.shields.io/badge/SmartInterviews-Profile-green?style=for-the-badge&logo=appveyor&logoColor=white)](https://smartinterviews.in/profile/rakesh2525)
 
 
+
+📧 **Email:** rakeshrallabandi475@gmail.com  
+🌐 **Portfolio:** [https://rakeshrallabandi.github.io/](https://rakeshrallabandi.github.io/portfolio/)
 
 
 # 💻 Tech Stack:
